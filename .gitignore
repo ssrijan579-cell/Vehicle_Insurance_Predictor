@@ -216,4 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+artifact/.env
+# Environment variables
+.env
+
+# ML artifacts
+artifact/
+.env
 artifact/
